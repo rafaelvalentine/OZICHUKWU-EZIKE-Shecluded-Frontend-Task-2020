@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "919f181433eccffd81147ee357480236",
+    "revision": "7449c4ece4cacd4c48517afd7250bfe2",
     "url": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/index.html"
   },
   {
-    "revision": "1143268e46c2a794bbd5",
+    "revision": "22681a73baed44f53eb2",
     "url": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "4ff662f9aa3b16a68248",
-    "url": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/css/main.abe5cd7e.chunk.css"
+    "revision": "5558124959aad2d3e0bc",
+    "url": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/css/main.39c87000.chunk.css"
   },
   {
-    "revision": "1143268e46c2a794bbd5",
-    "url": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/2.22a92994.chunk.js"
+    "revision": "22681a73baed44f53eb2",
+    "url": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/2.e530d3e3.chunk.js"
   },
   {
     "revision": "eff3b4d7e4bb0087ce53139cd90bc880",
-    "url": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/2.22a92994.chunk.js.LICENSE.txt"
+    "url": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/2.e530d3e3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4ff662f9aa3b16a68248",
-    "url": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/main.47a7a1bc.chunk.js"
+    "revision": "5558124959aad2d3e0bc",
+    "url": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/main.dd74b4fc.chunk.js"
   },
   {
     "revision": "848267fc6ec070328178",
