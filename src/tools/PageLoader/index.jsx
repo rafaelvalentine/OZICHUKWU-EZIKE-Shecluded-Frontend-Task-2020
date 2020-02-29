@@ -3,10 +3,10 @@ import Loader from 'react-loader-spinner'
 import { Wrapper } from './styles'
 
 const index = props => {
+  console.log(props);
   return (
     <Fragment>
-      
-      {props.pageLoader ? <Wrapper>
+       {props.loading ? <Wrapper>
         <Loader
           type='MutatingDots'
           color='#FD8A25'

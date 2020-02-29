@@ -1,5 +1,5 @@
 import React from 'react'
-
+import  '../../themes/sass/components/Jumbutron.sass';
 const index = () =>  (
   <div className="container">
     <div className="one-half left">
