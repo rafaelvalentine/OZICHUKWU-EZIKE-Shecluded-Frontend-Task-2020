@@ -4,12 +4,12 @@ import { device } from '../../utils/device'
 
 export const Wrapper = styled.div`
 position: absolute;
-bottom: 20px;
+bottom: 10px;
 display:flex;
 justify-content:space-between;
 align-items: center;
 height: 85px;
-width:95%;
+width: 95%;
 background:${props => '#F5F5F5'};
 padding:35px 64px;
 border: .5px solid ${props => props.theme.green};
