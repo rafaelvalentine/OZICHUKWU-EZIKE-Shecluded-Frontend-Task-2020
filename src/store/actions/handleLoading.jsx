@@ -8,6 +8,5 @@ const handleSetPageLoader = payload => ({
 })
 
 export const handlePageLoader = results => dispatch => {
-  console.log(results)
   dispatch(handleSetPageLoader(results))
 }

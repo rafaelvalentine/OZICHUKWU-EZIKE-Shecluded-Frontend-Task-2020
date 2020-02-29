@@ -1,14 +1,15 @@
 import React from 'react'
+import { Link } from 'react-router-dom' 
 import  '../../themes/sass/components/Jumbutron.sass';
 const index = () =>  (
-  <div className="container">
+  <div className="container-jumbutron">
     <div className="one-half left">
-      <h1>CG Generalist</h1>
-      <a href="#" className="cta">Let's Go</a>
+      <h1>Cats' list</h1>
+      <Link to='/cats' className="cta">Let's Go</Link>
     </div>
     <div className="one-half right">
-      <h1>Designer/Developer</h1>
-      <a href="#" className="cta">Let's Go</a>
+      <h1>The Lord of the Rings</h1>
+      <Link to='/lotr' className="cta">Let's Go</Link>
     </div>
   </div>
   )
