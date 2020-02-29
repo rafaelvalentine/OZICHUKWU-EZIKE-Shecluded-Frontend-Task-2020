@@ -1,28 +1,30 @@
 {
   "files": {
-    "main.css": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/css/main.e9d279e0.chunk.css",
-    "main.js": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/main.e10475d9.chunk.js",
-    "main.js.map": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/main.e10475d9.chunk.js.map",
+    "main.css": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/css/main.abe5cd7e.chunk.css",
+    "main.js": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/main.a796c47f.chunk.js",
+    "main.js.map": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/main.a796c47f.chunk.js.map",
     "runtime-main.js": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/runtime-main.c6497cf4.js",
     "runtime-main.js.map": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/runtime-main.c6497cf4.js.map",
     "static/css/2.47e06e2e.chunk.css": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.d3569894.chunk.js": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/2.d3569894.chunk.js",
-    "static/js/2.d3569894.chunk.js.map": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/2.d3569894.chunk.js.map",
+    "static/js/2.22a92994.chunk.js": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/2.22a92994.chunk.js",
+    "static/js/2.22a92994.chunk.js.map": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/2.22a92994.chunk.js.map",
     "index.html": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/index.html",
-    "precache-manifest.699770a46cb23d77b1b2d8fb8a524b7b.js": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/precache-manifest.699770a46cb23d77b1b2d8fb8a524b7b.js",
+    "precache-manifest.c3f9e86f9ef8e643a4592f1f32d39936.js": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/precache-manifest.c3f9e86f9ef8e643a4592f1f32d39936.js",
     "service-worker.js": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.e9d279e0.chunk.css.map": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/css/main.e9d279e0.chunk.css.map",
-    "static/js/2.d3569894.chunk.js.LICENSE.txt": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/2.d3569894.chunk.js.LICENSE.txt",
+    "static/css/main.abe5cd7e.chunk.css.map": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/css/main.abe5cd7e.chunk.css.map",
+    "static/js/2.22a92994.chunk.js.LICENSE.txt": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/2.22a92994.chunk.js.LICENSE.txt",
+    "static/media/LOTR.sass": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/media/argonath.5f7eb326.jpg",
     "static/media/arrow-drop-left.svg": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/media/arrow-drop-left.d0ea87ea.svg",
     "static/media/arrow-drop-right.svg": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/media/arrow-drop-right.758ebe3e.svg",
-    "static/media/arrow-dropdown.svg": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/media/arrow-dropdown.f1b95245.svg"
+    "static/media/arrow-dropdown.svg": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/media/arrow-dropdown.f1b95245.svg",
+    "static/media/the_one_ring.jpg": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/media/the_one_ring.3de5c276.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c6497cf4.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.d3569894.chunk.js",
-    "static/css/main.e9d279e0.chunk.css",
-    "static/js/main.e10475d9.chunk.js"
+    "static/js/2.22a92994.chunk.js",
+    "static/css/main.abe5cd7e.chunk.css",
+    "static/js/main.a796c47f.chunk.js"
   ]
 }
