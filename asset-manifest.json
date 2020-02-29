@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/css/main.871efcd5.chunk.css",
-    "main.js": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/main.472d114a.chunk.js",
-    "main.js.map": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/main.472d114a.chunk.js.map",
-    "runtime-main.js": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/runtime-main.c6497cf4.js",
-    "runtime-main.js.map": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/runtime-main.c6497cf4.js.map",
-    "static/css/2.47e06e2e.chunk.css": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.090d9753.chunk.js": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/2.090d9753.chunk.js",
-    "static/js/2.090d9753.chunk.js.map": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/2.090d9753.chunk.js.map",
-    "index.html": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/index.html",
-    "precache-manifest.bb89801b32c68d286d1b899ece138d4a.js": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/precache-manifest.bb89801b32c68d286d1b899ece138d4a.js",
-    "service-worker.js": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/service-worker.js",
-    "static/css/2.47e06e2e.chunk.css.map": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.871efcd5.chunk.css.map": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/css/main.871efcd5.chunk.css.map",
-    "static/js/2.090d9753.chunk.js.LICENSE.txt": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/2.090d9753.chunk.js.LICENSE.txt",
-    "static/media/LOTR.sass": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/media/argonath.5f7eb326.jpg",
-    "static/media/arrow-drop-left.svg": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/media/arrow-drop-left.d0ea87ea.svg",
-    "static/media/arrow-drop-right.svg": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/media/arrow-drop-right.758ebe3e.svg",
-    "static/media/arrow-dropdown.svg": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/media/arrow-dropdown.f1b95245.svg",
-    "static/media/the_one_ring.jpg": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/media/the_one_ring.3de5c276.jpg"
+    "main.css": "/shecluded-frontend-task/static/css/main.f1243a4e.chunk.css",
+    "main.js": "/shecluded-frontend-task/static/js/main.e169730c.chunk.js",
+    "main.js.map": "/shecluded-frontend-task/static/js/main.e169730c.chunk.js.map",
+    "runtime-main.js": "/shecluded-frontend-task/static/js/runtime-main.58c23094.js",
+    "runtime-main.js.map": "/shecluded-frontend-task/static/js/runtime-main.58c23094.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/shecluded-frontend-task/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.ddf07847.chunk.js": "/shecluded-frontend-task/static/js/2.ddf07847.chunk.js",
+    "static/js/2.ddf07847.chunk.js.map": "/shecluded-frontend-task/static/js/2.ddf07847.chunk.js.map",
+    "index.html": "/shecluded-frontend-task/index.html",
+    "precache-manifest.4a1171238b78936cd79924bea0941bb6.js": "/shecluded-frontend-task/precache-manifest.4a1171238b78936cd79924bea0941bb6.js",
+    "service-worker.js": "/shecluded-frontend-task/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/shecluded-frontend-task/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.f1243a4e.chunk.css.map": "/shecluded-frontend-task/static/css/main.f1243a4e.chunk.css.map",
+    "static/js/2.ddf07847.chunk.js.LICENSE.txt": "/shecluded-frontend-task/static/js/2.ddf07847.chunk.js.LICENSE.txt",
+    "static/media/LOTR.sass": "/shecluded-frontend-task/static/media/argonath.5f7eb326.jpg",
+    "static/media/arrow-drop-left.svg": "/shecluded-frontend-task/static/media/arrow-drop-left.d0ea87ea.svg",
+    "static/media/arrow-drop-right.svg": "/shecluded-frontend-task/static/media/arrow-drop-right.758ebe3e.svg",
+    "static/media/arrow-dropdown.svg": "/shecluded-frontend-task/static/media/arrow-dropdown.f1b95245.svg",
+    "static/media/the_one_ring.jpg": "/shecluded-frontend-task/static/media/the_one_ring.3de5c276.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c6497cf4.js",
+    "static/js/runtime-main.58c23094.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.090d9753.chunk.js",
-    "static/css/main.871efcd5.chunk.css",
-    "static/js/main.472d114a.chunk.js"
+    "static/js/2.ddf07847.chunk.js",
+    "static/css/main.f1243a4e.chunk.css",
+    "static/js/main.e169730c.chunk.js"
   ]
 }
