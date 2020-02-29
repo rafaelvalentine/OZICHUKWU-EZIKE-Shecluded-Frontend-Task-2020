@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe29f9739f7f63055034b39a45a68010",
+    "revision": "919f181433eccffd81147ee357480236",
     "url": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "08612dbfd7d688f3356e",
+    "revision": "4ff662f9aa3b16a68248",
     "url": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/css/main.abe5cd7e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/2.22a92994.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "08612dbfd7d688f3356e",
-    "url": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/main.a796c47f.chunk.js"
+    "revision": "4ff662f9aa3b16a68248",
+    "url": "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/static/js/main.47a7a1bc.chunk.js"
   },
   {
     "revision": "848267fc6ec070328178",
