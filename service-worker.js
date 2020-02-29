@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/precache-manifest.4337a0cbd84297876eff553b3bbdf5d8.js"
+  "/OZICHUKWU-EZIKE-Shecluded-Frontend-Task-2020/precache-manifest.bb89801b32c68d286d1b899ece138d4a.js"
 );
 
 self.addEventListener('message', (event) => {
