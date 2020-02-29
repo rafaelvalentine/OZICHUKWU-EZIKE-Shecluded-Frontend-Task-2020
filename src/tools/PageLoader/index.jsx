@@ -3,7 +3,6 @@ import Loader from 'react-loader-spinner'
 import { Wrapper } from './styles'
 
 const index = props => {
-  console.log(props);
   return (
     <Fragment>
        {props.loading ? <Wrapper>

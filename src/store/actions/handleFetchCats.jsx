@@ -1,6 +1,5 @@
 import type from '../type'
 import { HTTP } from '../../api/index'
-// import { handleError } from '../../lib'
 
 const {  CAT_DATA  } = type
 
@@ -13,7 +12,7 @@ const handleSetCats = payload => ({
  
 
 export const handleFetchCats = params => dispatch => {
-  return HTTP()
+  return HTTP().catApi()
     .get(`/`, {params})
     .then(res => {
       let result = res.data
